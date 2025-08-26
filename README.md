@@ -20,6 +20,7 @@ It is designed for projects ranging from small interactive scenes to large-scale
 2. Copy the Scripts folder into your Unity project.
 3. Add the LookAtTarget component to any GameObject you want to rotate toward a target.
 4. Add the LookAtManager component to any other GameObject.
+5. Add target to LookAtTarget and enter play mode to see results and stats.
 
 ⚡ Performance
 ✅ Optimized with a centralized manager.
