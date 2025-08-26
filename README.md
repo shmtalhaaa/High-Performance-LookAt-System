@@ -16,7 +16,7 @@ It is designed for projects ranging from small interactive scenes to large-scale
 ---
 
 ## 📂 Installation
-1. Download or clone this repository: https://github.com/yourusername/High-Performance-LookAt-System.git
+1. Download or clone this repository: https://github.com/shmtalhaaa/High-Performance-LookAt-System.git
 2. Copy the Scripts folder into your Unity project.
 3. Add the LookAtTarget component to any GameObject you want to rotate toward a target.
 4. Add the LookAtManager component to any other GameObject.
